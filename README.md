@@ -15,4 +15,8 @@ graph LR;
   staged    -- "git commit"     --> tracked/comitted;
   modified  -- "git add" --> staged;
 ```
-<и тут пустая строка!>
+
+Для запуска учебника по Vim выполнить команду в консоли:
+```
+vimtutor ru
+```
